@@ -1,0 +1,109 @@
+{
+  "books": [
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Technology",
+      "isbn": "9780132350884",
+      "status": "not available",
+      "id": "gP4tSnmNNnk"
+    },
+    {
+      "title": "Learning React",
+      "author": "Alex Banks",
+      "category": "Technology",
+      "isbn": "9781492051725",
+      "status": "available",
+      "id": "c6TJE8HQ9FY"
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "category": "Technology",
+      "isbn": "9780135957059",
+      "status": "not available",
+      "id": "Mhr27cNmFCg"
+    },
+    {
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "category": "Technology",
+      "isbn": "9781718502703",
+      "status": "not available",
+      "id": "OkQJEb2tao8"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "category": "Fantasy",
+      "isbn": "9780747532699",
+      "status": "available",
+      "id": "rmIU--ojkIw"
+    },
+    {
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "category": "Mystery",
+      "isbn": "9780062073488",
+      "status": "available",
+      "id": "yvN394BiwzQ"
+    },
+    {
+      "title": "Wings of Fire",
+      "author": "A. P. J. Abdul Kalam",
+      "category": "Biography",
+      "isbn": "9788173711466",
+      "status": "available",
+      "id": "pUUxrMdXB_4"
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "category": "Science",
+      "isbn": "9780553380163",
+      "status": "available",
+      "id": "tTAadbYFrF0"
+    },
+    {
+      "title": "The Story of My Experiments with Truth",
+      "author": "M. K. Gandhi",
+      "category": "History",
+      "isbn": "9780143330095",
+      "status": "available",
+      "id": "keb4QP72LqE"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Non-Fiction",
+      "isbn": "9780735211292",
+      "status": "available",
+      "id": "8OQUP57YJqg"
+    },
+    {
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "category": "Fiction",
+      "isbn": "9780399226908",
+      "status": "available",
+      "id": "ZYFdcwrju8U"
+    },
+    {
+      "title": "Introduction to Education",
+      "author": "George Knight",
+      "category": "Education",
+      "isbn": "9780131834790",
+      "status": "available",
+      "id": "XOQVbRHYneY"
+    },
+    {
+      "title": "The power of positive thinking",
+      "author": "Norman Vincent Peale",
+      "category": "Other",
+      "isbn": "9780743234801",
+      "status": "avaliable",
+      "available": true,
+      "id": "RFef9zWjv6Q"
+    }
+  ]
+}
